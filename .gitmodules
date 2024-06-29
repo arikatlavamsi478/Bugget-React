@@ -1,0 +1,3 @@
+[submodule "budget-react"]
+	path = budget-react
+	url = https://github.com/SwiftNextStep/budget-react.git
